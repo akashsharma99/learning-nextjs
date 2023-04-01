@@ -1,2 +1,1 @@
-# learning-nextjs
-repo to learn and practise nextjs
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
